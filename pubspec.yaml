@@ -1,0 +1,24 @@
+name: mvvm_trial
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.17.6 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  provider: ^6.0.3
+  get: 4.6.5
+  google_fonts: ^3.0.1
+  flutter: 
+    sdk: flutter
+  sizer: ^2.0.15
+
+dev_dependencies: 
+  flutter_lints: ^2.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+
